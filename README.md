@@ -4,6 +4,7 @@ This repo serves as reference and knowledgebase for the work completed during th
 
 ## Getting Started
 Setting up Python 3, Jupyter Notebook, and Spark 2.4 on TACC
+Running a batch job on TACC
 
 ## Technical Challenges
 The dataset is large enough that it can't be fit into memory, so there are many challenges that come with that
@@ -17,6 +18,7 @@ Loading the Data in Spark
 Flattening the Data
 Creating a Graph Representation of the Data
 Basic Graph Manipulation with Spark and Graphframes
+Clustering Coefficient example (which turned out to be incorrect)
 Splitting the data per month
 SNAP
 NetworKit
