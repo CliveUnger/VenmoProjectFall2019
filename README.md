@@ -38,3 +38,5 @@ Reference to the data locations in TACC since data cannot be uploaded to GitHub
 * [NetworkX Documention](https://networkx.github.io/documentation/stable/index.html)
 * [SNAP Documentation](http://snap.stanford.edu/)
 * [NetworKit Documentation](https://networkit.github.io/)
+
+## [Spring 2019 Documention](./spring2019.md)
